@@ -8,9 +8,9 @@
 \f0\fs24 \cf0 \{\
   "name": "MITO",\
   "symbol": "MITO",\
-  "description": "MITO is the originating identity, attestation root, and principle of the DEMO ecosystem. It introduces KONA, anchors the identity graph, and acts as the first key in the round-robin swap machine that routes value, trust, and reputation across DEMO, HIM, KID, and KONA. MITO establishes the identity mesh, defines the initial trust boundary, and serves as the canonical origin point for all KID registrations and attestations within the DEMO Metaverse.",\
+  "description": "MITO is the originating identity, attestation root, and principle of the DEMO ecosystem. It introduces KONA, anchors the identity graph, and acts as the first key in the round-robin swap machine that routes value, trust, and reputation across DEMO, AIP, and KONA. MITO establishes the identity mesh, defines the initial trust boundary, and serves as the canonical origin point for all KID registrations and attestations within the DEMO Metaverse.",\
   "image": "https://raw.githubusercontent.com/NautHuman77/Kona/b325ceb697bab73c6d42aa0e02e5d1980333a96c/Mito-Banner.png",\
-  "external_url": "https://satoshimito.com",\
+  "external_url": "https://demometa.us",\
   "attributes": [\
     \{ "trait_type": "Role", "value": "Identity Root" \},\
     \{ "trait_type": "Authority", "value": "Attestation Origin" \},\
@@ -23,19 +23,19 @@
     \{ "trait_type": "Social", "value": "Discord" \}\
   ],\
   "collection": \{\
-    "name": "DEMO Ecosystem",\
-    "family": "MITO Identity Series"\
+    "name": "DEMO trust layer",\
+    "family": "Kona"\
   \},\
   "properties": \{\
     "category": "token",\
     "files": [\
       \{\
-        "uri": "https://raw.githubusercontent.com/NautHuman77/Kona/b325ceb697bab73c6d42aa0e02e5d1980333a96c/Mito-Banner.png",\
+        "uri": "https://raw.githubusercontent.com/NautHuman77/Kona/b325ceb697bab73c6d42aa0e02e5d1980333a96c/Mitobanner.png",\
         "type": "image/png"\
       \}\
     ],\
     "links": \{\
-      "website": "https://satoshimito.com",\
+      "website": "https://demometa.us",\
       "x": "https://x.com/mitosatoshiAI,\
       "discord": "https://discord.gg/satoshimito\
     \}\
