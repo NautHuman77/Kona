@@ -1,0 +1,25 @@
+{
+  "name": "MITO",
+  "symbol": "MITO",
+  "description": "MITO is the originating identity, attestation root, and governance principle of the DEMO ecosystem. It introduces KONA, anchors the identity graph, and acts as the origin key in the circular routing machine — MITO → KONA → DEMO → AIP. MITO establishes the identity mesh, defines the initial trust boundary, and serves as the canonical origin point for all KID registrations and attestations within the DEMO Metaverse.",
+  "image": "https://raw.githubusercontent.com/NautHuman77/Kona/main/mito-icon.png",
+  "header": "https://raw.githubusercontent.com/NautHuman77/Kona/main/Mito-banner.png",
+  "external_url": "https://konaidentify.pro",
+  "twitter": "https://x.com/mitosatoshiAI",
+  "discord": "https://discord.gg/satoshimito",
+  "website": "https://konaidentify.pro",
+  "tags": ["identity", "governance", "defi", "solana", "demo-ecosystem"],
+  "extensions": {
+    "mintAuthorityBurned": true,
+    "freezeAuthorityBurned": true,
+    "lpBurned": true
+  },
+  "properties": {
+    "category": "fungible",
+    "links": {
+      "website": "https://konaidentify.pro",
+      "twitter": "https://x.com/mitosatoshiAI",
+      "discord": "https://discord.gg/satoshimito"
+    }
+  }
+}
