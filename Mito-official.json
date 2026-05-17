@@ -12,7 +12,8 @@
   "extensions": {
     "mintAuthorityBurned": true,
     "freezeAuthorityBurned": true,
-    "lpBurned": true
+    "lpBurned": true,
+    "streamflowLock": "https://app.streamflow.finance/contract/solana/mainnet/9PCS3CAKzXCx9immeQSWgPqKxRE4HHjKQdpxrDwnL4eJ"
   },
   "properties": {
     "category": "fungible",
